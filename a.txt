@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ssssssssssssssssssssssssssccccccccccccccsaklfsklfshahahahmaster
+=======
+sssssssssssssssssssssssssscccccccccccccddddddddddddcsaklfsklfs
+>>>>>>> e79f01c4b6366e6996e0a30c063a32d6ba045ce6
 master
 <<<<<<< HEAD
 new1 nskaskaew

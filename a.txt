@@ -1,10 +1,10 @@
 ssssssssssssssssssssssssssccccccccccccccsaklfsklfs
 master
-<<<<<<< HEAD
+
 new1 nskaskaew
 hahahahahaaaaaaaaa
-=======
+
 new1 new
-大萨达所
->>>>>>> b04bbd06cb17e918b12d516ba2e5bc9e0b644ca1
+github又修改了
 大萨达所大萨达所
+又修改了
